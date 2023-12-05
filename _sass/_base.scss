@@ -37,6 +37,7 @@ table {
 a,
 table.table a {
   color: var(--global-theme-color);
+  font-weight: bolder;
 
   &:hover {
     color: var(--global-theme-color);
@@ -349,10 +350,10 @@ blockquote {
 // Social (bottom)
 
 .social {
-  text-align: center;
+  // text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem;
 
     a {
       i::before {
@@ -427,9 +428,11 @@ footer.fixed-bottom {
 
 footer.sticky-bottom {
   border-top: 1px solid var(--global-divider-color);
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   font-size: 0.9rem;
+  width: 100vw;
+  text-align: center;
 }
 
 // CV
