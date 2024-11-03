@@ -44,7 +44,7 @@ I am a **[Research Software Engineer 2](https://www.microsoft.com/en-us/research
 
 Currently, I am working on **Project Reward Copilot**, which aims to facilitate the **design of interpretable reward functions based on client** specifications for any RL framework, with **[Dr. Nagarajan Natarajan](https://www.microsoft.com/en-us/research/people/nagarajn)**.
 
-Previsouly, I have worked on research projects including:
+Previously, I have worked on research projects including:
 
 - **[Project Network Brain](https://www.microsoft.com/en-us/research/project/netbrain)**, focusing on **geo-distributed training of large language model (LLM)** and **output sequence length prediction for LLMs**, with **[Dr. Venkat Padmanabhan](https://www.microsoft.com/en-us/research/people/padmanab)**, **[Dr. Rohan Gandhi](https://www.microsoft.com/en-us/research/people/rohangandhi)** and **[Dr. Debopam Bhattacherjee](https://www.microsoft.com/en-us/research/people/debopamb)**.
 
@@ -52,4 +52,4 @@ Previsouly, I have worked on research projects including:
 
 - **Project CEISER**, focusing on **cost-effective inference serving of machine learning (ML) models**, with **[Dr. Jayashree Mohan](https://www.microsoft.com/en-us/research/people/jamohan)** and **[Dr. Anand Iyer](https://www.anand-iyer.com)**.
 
-Before joining Microsoft Research, I was a Software Engineer at **[Microsoft India](https://www.microsoft.com/en-in/msidc)** in the Devices team. I completed my B.Tech. in Computer Science and Engineering from **[IIIT Delhi](https://www.iiitd.ac.in)** in 2021, with my thesis on **client-independent IP geolocation** under the guidance of **[Prof. Sambuddho Chakravarty](https://www.iiitd.ac.in/sambuddho)** and **[Prof. Mukulika Maity](https://www.iiitd.ac.in/mukulika)**.
+Before joining Microsoft Research, I was a Software Engineer at **[Microsoft India](https://www.microsoft.com/en-in/msidc)** in the Devices team. I completed my B.Tech. in Computer Science and Engineering from **[IIIT Delhi](https://www.iiitd.ac.in)** in 2021, with my thesis on **client-independent IP geolocation** advised by **[Prof. Sambuddho Chakravarty](https://www.iiitd.ac.in/sambuddho)** and **[Prof. Mukulika Maity](https://www.iiitd.ac.in/mukulika)**.
