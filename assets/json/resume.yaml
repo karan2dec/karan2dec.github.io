@@ -16,16 +16,18 @@ basics:
       username: karan2dec
       url: https://www.linkedin.com/in/karan2dec/
 education:
-  - institution: Indraprastha Institute of Information Technology Delhi (IIITD)
-    url: https://www.iiitd.ac.in
+  - institution: <a href='https://www.iiitd.ac.in'>Indraprastha Institute of Information Technology Delhi (IIITD)</a>
+    url: "#"
     area: Computer Science and Engineering
     studyType: Bachelor of Technology (B.Tech.)
     startDate: Aug 2017
     endDate: Jul 2021
     score: >-
-      <span class='imp' style='font-style: normal;'>
+      <div class='imp' style='font-style: normal;'>
         GPA: 9.67/10.00 (Class rank: 2 of 323)
-      </span>
+      </div>
+      <br>
+      Selected coursework:
     courses:
       - Computer Graphics
       - Computer Organization
@@ -56,12 +58,12 @@ publications:
     publisher: <a href='https://mlforsystems.org'>NeurIPS 2024 Workshop on ML for Systems</a>
     releaseDate: Oct 2024
     url: "#"
-    summary: We introduce Reward Copilot, a framework that facilitates the design of interpretable reward functions based on client specifications for any RL framework.
+    summary: We introduce Reward Copilot, a framework that facilitates the <span class='imp'>design of interpretable reward functions based on client specifications</span> for any RL framework.
   - name: "OPPerTune: Post-Deployment Configuration Tuning of Services Made Easy"
     publisher: <a href='https://www.usenix.org/conference/nsdi24'>USENIX NSDI 2024</a>
     releaseDate: Jul 2023
     url: https://www.usenix.org/conference/nsdi24/presentation/somashekar
-    summary: We introduce OPPerTune, a framework enabling apps in deployment to continuously optimize performance by tuning configuration parameters. Visit <a href='https://aka.ms/oppertune'>aka.ms/oppertune</a> to know more about the project.
+    summary: We introduce OPPerTune, a framework enabling apps in deployment to <span class='imp'>continuously optimize performance by tuning configuration parameters</span>. Visit <a href='https://aka.ms/oppertune'>aka.ms/oppertune</a> to know more about the project.
 research experience:
   - name: <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-india'>Microsoft Research India</a>
     position: Research Software Engineer 2
@@ -81,7 +83,7 @@ research experience:
         <br>
         <ul class='details'>
           <li>
-            Working on Reward Copilot, a framework that facilitates the design of interpretable reward functions based on client specifications for any RL framework.
+            Working on Reward Copilot, a framework that facilitates the <span class='imp'>design of interpretable reward functions based on client specifications</span> for any RL framework.
           </li>
         </ul>
       - >-
@@ -96,10 +98,10 @@ research experience:
         <br>
         <ul class='details'>
           <li>
-            Optimizing geo-distributed training of large language models (LLMs).
+            Optimizing <span class='imp'>geo-distributed training of large language models</span> (LLMs).
           </li>
           <li>
-            Developing output sequence length predictors for LLMs to aid in downstream tasks.
+            Developing <span class='imp'>output sequence length predictors for LLMs</span> to aid in downstream tasks.
           </li>
         </ul>
       - >-
@@ -113,7 +115,7 @@ research experience:
         <br>
         <ul class='details'>
           <li>
-            Focused on reducing inference costs by substituting a single large ML model with an ensemble of smaller, heterogeneous models while maintaining accuracy and latency targets on a single GPU
+            Focused on <span class='imp'>reducing inference costs</span> by substituting a single large ML model with an ensemble of smaller, heterogeneous models while maintaining accuracy and latency targets on a single GPU
           </li>
         </ul>
       - >-
@@ -131,7 +133,7 @@ research experience:
         <br>
         <ul class='details'>
           <li>
-            Created OPPerTune, a framework enabling apps in deployment to continuously optimize performance by tuning configuration parameters.
+            Created OPPerTune, a framework enabling apps in deployment to <span class='imp'>continuously optimize performance by tuning configuration parameters</span>.
           </li>
           <li>
             Developed a <a href='https://github.com/microsoft/oppertune'>Python library</a> for the RL tuning algorithms, a Go server to host the tuning pipeline, and a Lua benchmark (using wrk2) for testing server scalability. Also helped implement and optimize the tuning algorithms.
@@ -179,7 +181,7 @@ research experience:
       <br>
       <span class='imp'>Grade: A</span>
     highlights:
-      - Helped develop an <span class='imp'>anti-censorship system</span> using instant messaging apps, including GUI and Python automation tools for webpage downloads, and assisted in experiments to ensure web browsing quality. Acknowledged in the publication at ASIA CCS 2021.
+      - Helped develop an <span class='imp'>anti-censorship system</span> using instant messaging apps, including GUI and Python automation tools for webpage downloads, and assisted in experiments to ensure web browsing quality. Acknowledged in the publication at <a href='https://dl.acm.org/doi/abs/10.1145/3433210.3453080'>ASIA CCS 2021</a>.
 industry experience:
   - name: <a href='https://www.microsoft.com/en-in/msidc'>Microsoft, India</a>
     position: Software Engineer
@@ -202,19 +204,19 @@ industry experience:
 achievements:
   - title: Dean's List Award for Academic Excellence
     url: "#"
-    date: 2018-2020
+    date: 2018 - 2020
     awarder: <a href='https://www.iiitd.ac.in'>IIITD</a>
     summary: Recipient for 3 years in a row for achieving an annual GPA exceeding 9.0/10.0.
   - title: Member of various student clubs
     url: "#"
-    date: 2017-2021
+    date: 2017 - 2021
     awarder: <a href='https://www.iiitd.ac.in'>IIITD</a>
     summary: Achieved a <span class='imp'>top 3 ranking</span> in the recruitment contests of the competitive programming (<a href='https://blog.iiitd.ac.in/foobar-a-story-to-tell'>FooBar</a>), software development (<a href='https://iiit-delhi.github.io/byld-website'>Byld</a>) and cybersecurity (<a href='https://d4rkc0de.iiitd.edu.in'>d4rkc0de</a>) clubs.
   - title: School Head Boy
     url: "#"
     date: 2011, 2016
     awarder:
-    summary:
+    summary: ''
 projects:
   - name: Research Mentoring Platform
     summary: >-
@@ -350,7 +352,7 @@ volunteer:
     url: "#"
     startDate: "2017"
     endDate: "2021"
-    summary:
+    summary: ''
     highlights:
       - Conducted live sessions to teach <a href='https://flask.palletsprojects.com/en/stable'>Flask</a>, <a href='https://p5js.org'>p5.js</a>, <a href='https://processing.org'>processing.js</a>, graph theory and recursion.
   - organization: Program for Interview Preparation, <a href='https://www.iiitd.ac.in'>IIITD</a>
@@ -358,9 +360,9 @@ volunteer:
     url: "#"
     startDate: 2020-11
     endDate: 2021-02
-    summary:
+    summary: ''
     highlights:
-      - Led the initiative to streamline preparing for coding interviews in an organized way by curating reading material and practice resources on select topics, creating online contests based on those topics and conducting editorial sessions to discuss the solutions and alternate approaches, with the aim of covering most of the popular interview questions and topics.
+      - Led an initiative to streamline coding interview preparation by curating reading materials and practice resources, organizing online contests, and conducting editorial sessions to discuss solutions and alternative approaches, covering key interview topics.
 certificates: []
 skills:
   - name: Languages
@@ -378,22 +380,22 @@ skills:
 interests:
   - name: Badminton
     keywords:
-      - Was part of my college team and the captain of my school team
+      - I was a member of my college team and captain of my school team.
   - name: Theater
     keywords:
-      - Participated in two stage plays and a solo mime act in college, and many more in school
+      - I participated in two stage plays and a solo mime act in college, along with several performances in school.
   - name: Teaching
     keywords:
-      - Passionate about teaching topics in a fun and easy to understand way, with an emphasis on enabling the learners to build a solid intuition and guiding them to come up with possible solutions by themselves
+      - Passionate about teaching in an engaging and accessible way, I focus on helping learners develop strong intuition and encouraging them to find solutions independently.
   - name: Science & Technology
     keywords:
-      - Love reading about modern technologies, scientific breakthroughs and the history of science
+      - I enjoy reading about modern technologies, scientific breakthroughs, and the history of science.
   - name: Music
     keywords:
-      - Enjoy listening to Lo-Fi music and similar genres
+      - I like Lo-Fi music and similar genres.
   - name: Anime
     keywords:
-      - Enjoy watching anime movies and series
+      - I enjoy watching anime.
 languages:
   - language: English
     fluency: Fluent
