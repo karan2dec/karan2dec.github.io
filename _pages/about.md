@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a **[Research Software Engineer 2](https://www.microsoft.com/en-us/research/people/karantandon)** at **[Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india)**. My primary **research interests** lie in **Systems for ML** and **ML for systems**, with a broader focus on **systems**. I am also open to exploring new areas.
+I am a **[Research Software Engineer 2](https://www.microsoft.com/en-us/research/people/karantandon)** at **[Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india)**. My primary **research interests** lie in **systems for ML** and **ML for systems**, with a broader focus on **systems**. I am also open to exploring new areas.
 
 <div class="phd alert alert-info mb-4 text-center" role="alert">
     <p class="mb-0">
