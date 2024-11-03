@@ -42,7 +42,7 @@ I am a **[Research Software Engineer 2](https://www.microsoft.com/en-us/research
     }
 </style>
 
-Currently, I am working on **Project Reward Copilot**, which aims to facilitate the **design of interpretable reward functions based on client** specifications for any RL framework, with **[Dr. Nagarajan Natarajan](https://www.microsoft.com/en-us/research/people/nagarajn)**.
+Currently, I am working on **Project Reward Copilot**, which aims to facilitate the **design of interpretable reward functions based on client specifications** for any RL framework, with **[Dr. Nagarajan Natarajan](https://www.microsoft.com/en-us/research/people/nagarajn)**.
 
 Previously, I have worked on research projects including:
 
