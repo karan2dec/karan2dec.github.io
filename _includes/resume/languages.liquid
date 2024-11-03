@@ -1,6 +1,6 @@
 <div class="list-groups">
   {% for content in data[1] %}
-    <div class="list-group col-md-6">
+    <div class="list-group col-md-3">
       <table class="table-cv list-group-table">
         <tbody>
           <tr>
@@ -21,7 +21,7 @@
           <tr>
             <td></td>
             <td class="list-group-name">
-              <b>{{ content.fluency }}</b>
+              {{ content.fluency }}
             </td>
           </tr>
         </tbody>

@@ -40,13 +40,31 @@
           </h6>
           <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ content.institution }}</h6>
           <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.area }}</h6>
-          <ul class="items">
-            {% for item in content.courses %}
-              <li>
-                <span class="item">{{ item }}</span>
-              </li>
-            {% endfor %}
-          </ul>
+          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem;">{{ content.score }}</h6>
+
+          <div class="ml-2 ml-md-5 list-groups" style="font-size: 0.95rem;">
+            {% assign n_half = content.courses.size | divided_by: 2 %}
+            <ul class="items list-group col-md-5">
+              {% for item in content.courses %}
+                {% if forloop.index <= n_half %}
+                  <li>
+                    <span class="item">{{ item }}</span>
+                  </li>
+                {% else %}
+                  {% break %}
+                {% endif %}
+              {% endfor %}
+            </ul>
+            <ul class="items list-group col-md-5 ml-1">
+              {% for item in content.courses %}
+                {% if forloop.index > n_half %}
+                  <li>
+                    <span class="item">{{ item }}</span>
+                  </li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </div>
         </div>
       </div>
     </li>

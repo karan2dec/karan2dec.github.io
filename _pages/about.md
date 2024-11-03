@@ -1,25 +1,59 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+#   align: right
+#   image: null
+#   image_circular: false # crops the image to make it circular
+#   more_info: >
+#     <p>555 your office number</p>
+#     <p>123 your address street</p>
+#     <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a **[Research Software Engineer 2](https://www.microsoft.com/en-us/research/people/karantandon)** at **[Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india)**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I am working on **Project Reward Copilot**, which aims to facilitate the **design of interpretable reward functions based on client** specifications for any RL framework, with **[Dr. Nagarajan Natarajan](https://www.microsoft.com/en-us/research/people/nagarajn)**.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previsouly, I have worked on research projects including:
+
+- **[Project Network Brain](https://www.microsoft.com/en-us/research/project/netbrain)**, focusing on **geo-distributed training of large language model (LLM)** and **output sequence length prediction for LLMs**, with **[Dr. Venkat Padmanabhan](https://www.microsoft.com/en-us/research/people/padmanab)**, **[Dr. Rohan Gandhi](https://www.microsoft.com/en-us/research/people/rohangandhi)** and **[Dr. Debopam Bhattacherjee](https://www.microsoft.com/en-us/research/people/debopamb)**.
+
+- **[Project OPPerTune](https://www.microsoft.com/en-us/research/project/oppertune)**, a framework enabling apps in deployment to continuously optimize performance by tuning configuration parameters, with **[Dr. Nagarajan Natarajan](https://www.microsoft.com/en-us/research/people/nagarajn)** and **[Dr. Ranjita Bhagwan](https://scholar.google.co.in/citations?user=xhbf6_oAAAAJ)**
+
+- **Project CEISER**, focusing on **cost-effective inference serving of machine learning (ML) models**, with **[Dr. Jayashree Mohan](https://www.microsoft.com/en-us/research/people/jamohan)** and **[Dr. Anand Iyer](https://www.anand-iyer.com)**.
+
+Before joining Microsoft Research, I was a Software Engineer at [Microsoft India](https://www.microsoft.com/en-in/msidc) in the Devices team. I completed my B.Tech. in Computer Science and Engineering from [IIIT Delhi](https://www.iiitd.ac.in) in 2021, with my thesis on **client-independent IP geolocation** under the guidance of **[Prof. Sambuddho Chakravarty](https://www.iiitd.ac.in/sambuddho)** and **[Prof. Mukulika Maity](https://www.iiitd.ac.in/mukulika)**.
+
+### Research Interests
+
+**Systems for ML** and **ML for systems**, with a broader focus on **systems**. I am also open to exploring new areas.
+
+<div class="phd alert alert-info mb-4 text-center" role="alert">
+    <p class="mb-0">
+        <i class="fa-solid fa-bullhorn"></i>
+        &nbsp;
+        <b>
+            I am actively seeking PhD opportunities.
+            Please feel free to <a href="mailto:karan2dec@gmail.com">reach out</a> for collaboration or potential openings.
+        </b>
+    </p>
+</div>
+<style>
+    .phd b, .phd i {
+        color: #032830;
+        font-weight: 600;
+    }
+
+    .phd a {
+        color: #032830;
+        text-decoration: underline;
+    }
+</style>
