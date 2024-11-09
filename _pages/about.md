@@ -42,11 +42,11 @@ I am a **[Research Software Engineer 2](https://www.microsoft.com/en-us/research
     }
 </style>
 
-Currently, I am working on **Project Reward Copilot**, which aims to facilitate the **design of interpretable reward functions based on client specifications** for any RL framework, with **[Dr. Nagarajan Natarajan](https://www.microsoft.com/en-us/research/people/nagarajn)**.
+Currently, I am working on **Project Reward Copilot**, automating **interpretable reward function design** for RL-driven systems optimizations, with **[Dr. Nagarajan Natarajan](https://www.microsoft.com/en-us/research/people/nagarajn)** and **[Dr. Mayukh Das](https://www.microsoft.com/en-us/research/people/mayukhdas)**.
 
 Previously, I have worked on research projects including:
 
-- **[Project Network Brain](https://www.microsoft.com/en-us/research/project/netbrain)**, focusing on **geo-distributed training of large language model (LLM)** and **output sequence length prediction for LLMs**, with **[Dr. Venkat Padmanabhan](https://www.microsoft.com/en-us/research/people/padmanab)**, **[Dr. Rohan Gandhi](https://www.microsoft.com/en-us/research/people/rohangandhi)** and **[Dr. Debopam Bhattacherjee](https://www.microsoft.com/en-us/research/people/debopamb)**.
+- **[Project Network Brain](https://www.microsoft.com/en-us/research/project/netbrain)**, focusing on **geo-distributed training of large language model (LLM)** and **output sequence length prediction for LLMs**, with **[Dr. Venkat Padmanabhan](https://www.microsoft.com/en-us/research/people/padmanab)**, **[Dr. Debopam Bhattacherjee](https://www.microsoft.com/en-us/research/people/debopamb)** and **[Dr. Rohan Gandhi](https://www.microsoft.com/en-us/research/people/rohangandhi)**.
 
 - **[Project OPPerTune](https://www.microsoft.com/en-us/research/project/oppertune)**, a framework enabling apps in deployment to **continuously optimize performance by tuning configuration parameters**, with **[Dr. Nagarajan Natarajan](https://www.microsoft.com/en-us/research/people/nagarajn)** and **[Dr. Ranjita Bhagwan](https://scholar.google.co.in/citations?user=xhbf6_oAAAAJ)**.
 
