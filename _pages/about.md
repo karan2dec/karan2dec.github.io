@@ -46,7 +46,7 @@ Currently, I am working on **Project Reward Copilot**, automating **interpretabl
 
 Previously, I have worked on research projects including:
 
-- **[Project Network Brain](https://www.microsoft.com/en-us/research/project/netbrain)**, focusing on **geo-distributed training of large language model (LLM)** and **output sequence length prediction for LLMs**, with **[Dr. Venkat Padmanabhan](https://www.microsoft.com/en-us/research/people/padmanab)**, **[Dr. Debopam Bhattacherjee](https://www.microsoft.com/en-us/research/people/debopamb)** and **[Dr. Rohan Gandhi](https://www.microsoft.com/en-us/research/people/rohangandhi)**.
+- **[Project Network Brain](https://www.microsoft.com/en-us/research/project/netbrain)**, focusing on **geo-distributed training of large language models (LLMs)** and **output sequence length prediction for LLMs**, with **[Dr. Venkat Padmanabhan](https://www.microsoft.com/en-us/research/people/padmanab)**, **[Dr. Debopam Bhattacherjee](https://www.microsoft.com/en-us/research/people/debopamb)** and **[Dr. Rohan Gandhi](https://www.microsoft.com/en-us/research/people/rohangandhi)**.
 
 - **[Project OPPerTune](https://www.microsoft.com/en-us/research/project/oppertune)**, a framework enabling apps in deployment to **continuously optimize performance by tuning configuration parameters**, with **[Dr. Nagarajan Natarajan](https://www.microsoft.com/en-us/research/people/nagarajn)** and **[Dr. Ranjita Bhagwan](https://scholar.google.co.in/citations?user=xhbf6_oAAAAJ)**.
 
