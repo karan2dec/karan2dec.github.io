@@ -85,11 +85,10 @@
       "endDate": "Now",
       "summary": "",
       "highlights": [
-        "<span class='title'>Project Reward Copilot</span> <br> <span class='advisors'>\n  Advisors:\n    <a href='https://www.microsoft.com/en-us/research/people/nagarajn'>Dr. Nagarajan Natarajan</a>,\n    <a href='https://www.microsoft.com/en-us/research/people/mayukhdas'>Dr. Mayukh Das</a>\n</span> <br> <ul class='details'>\n  <li>\n    Working on Reward Copilot, a framework that facilitates the <span class='imp'>design of interpretable reward functions based on client specifications</span> for any RL framework.\n  </li>\n</ul>",
-        "<span class='title'>Project Network Brain</span> <br> <span class='advisors'>\n  Advisors:\n  <a href='https://www.microsoft.com/en-us/research/people/padmanab'>Dr. Venkat Padmanabhan</a>,\n  <a href='https://www.microsoft.com/en-us/research/people/rohangandhi'>Dr. Rohan Gandhi</a>,\n  <a href='https://www.microsoft.com/en-us/research/people/debopamb'>Dr. Debopam Bhattacherjee</a>\n</span> <br> <ul class='details'>\n  <li>\n    Optimizing <span class='imp'>geo-distributed training of large language models</span> (LLMs).\n  </li>\n  <li>\n    Developing <span class='imp'>output sequence length predictors for LLMs</span> to aid in downstream tasks.\n  </li>\n</ul>",
-        "<span class='title'>Project CEISER</span> <br> <span class='advisors'>\n  Advisors:\n    <a href='https://www.microsoft.com/en-us/research/people/jamohan'>Dr. Jayashree Mohan</a>,\n    <a href='https://www.anand-iyer.com'>Dr. Anand Iyer</a>\n</span> <br> <ul class='details'>\n  <li>\n    Focused on <span class='imp'>reducing inference costs</span> by substituting a single large ML model with an ensemble of smaller, heterogeneous models while maintaining accuracy and latency targets on a single GPU\n  </li>\n</ul>",
-        "<span class='title'><a href='https://aka.ms/oppertune'>Project OPPerTune</a></span> &emsp; <a href='https://github.com/microsoft/OPPerTune'><i class=\"fa-brands fa-github\"></i></a> &nbsp; <a href='https://www.usenix.org/system/files/nsdi24-somashekar.pdf'><i class=\"fa-solid fa-file-pdf\"></i></a> <br> <span class='advisors'>\n  Advisors:\n    <a href='https://www.microsoft.com/en-us/research/people/nagarajn'>Dr. Nagarajan Natarajan</a>,\n    <a href='https://scholar.google.co.in/citations?user=xhbf6_oAAAAJ'>Dr. Ranjita Bhagwan</a>\n</span> <br> <ul class='details'>\n  <li>\n    Created OPPerTune, a framework enabling apps in deployment to <span class='imp'>continuously optimize performance by tuning configuration parameters</span>.\n  </li>\n  <li>\n    Developed a <a href='https://github.com/microsoft/oppertune'>Python library</a> for the RL tuning algorithms, a Go server to host the tuning pipeline, and a Lua benchmark (using wrk2) for testing server scalability. Also helped implement and optimize the tuning algorithms.\n  </li>\n  <li>\n    Integrated OPPerTune into <span class='imp'>Azure Resource Central</span>, Microsoft's prediction serving platform, and <span class='imp'><a href='https://github.com/microsoft/oppertune'>open-sourced</a></span> it.\n  </li>\n  <li>\n    OPPerTune is being <span class='imp'>used in Microsoft</span> and is <span class='imp'>patented in the US</span>.\n  </li>\n</ul>",
-        "<span class='imp'>Promoted</span> from Research SDE to Research SDE 2 in August 2023."
+        "<span class='title'>Project Reward Copilot</span> <br> <span class='advisors'>\n  Advisors:\n    <a href='https://www.microsoft.com/en-us/research/people/nagarajn'>Dr. Nagarajan Natarajan</a>,\n    <a href='https://www.microsoft.com/en-us/research/people/mayukhdas'>Dr. Mayukh Das</a>\n</span> <br> <ul class='details'>\n  <li>\n    Automating <span class='imp'>interpretable reward functions design</span> for RL-driven systems optimization.\n  </li>\n</ul>",
+        "<span class='title'>Project Network Brain</span> <br> <span class='advisors'>\n  Advisors:\n  <a href='https://www.microsoft.com/en-us/research/people/padmanab'>Dr. Venkat Padmanabhan</a>,\n  <a href='https://www.microsoft.com/en-us/research/people/debopamb'>Dr. Debopam Bhattacherjee</a>,\n  <a href='https://www.microsoft.com/en-us/research/people/rohangandhi'>Dr. Rohan Gandhi</a>\n</span> <br> <ul class='details'>\n  <li>\n    Optimizing <span class='imp'>geo-distributed training of large language models</span> (LLMs).\n  </li>\n  <li>\n    Developing <span class='imp'>output sequence length predictors for LLMs</span> to aid in downstream tasks.\n  </li>\n</ul>",
+        "<span class='title'><a href='https://aka.ms/oppertune'>Project OPPerTune</a></span> &emsp; <a href='https://github.com/microsoft/OPPerTune'><i class=\"fa-brands fa-github\"></i></a> &nbsp; <a href='https://www.usenix.org/system/files/nsdi24-somashekar.pdf'><i class=\"fa-solid fa-file-pdf\"></i></a> <br> <span class='advisors'>\n  Advisors:\n    <a href='https://www.microsoft.com/en-us/research/people/nagarajn'>Dr. Nagarajan Natarajan</a>,\n    <a href='https://scholar.google.co.in/citations?user=xhbf6_oAAAAJ'>Dr. Ranjita Bhagwan</a>\n</span> <br> <ul class='details'>\n  <li>\n    Created OPPerTune, a framework enabling apps in deployment to <span class='imp'>continuously optimize performance by tuning configuration parameters</span>.\n  </li>\n  <li>\n    Built a <a href='https://github.com/microsoft/oppertune'>Python library</a> integrating our implementations of <span title=\"Reinforcement Learning\">RL</span> tuning algorithms, established benchmarks for evaluation, and led research toward product deployment.\n  </li>\n  <li>\n    Led OPPerTune's integration into <span class='imp'>Azure Resource Central</span>, Microsoft's prediction serving platform, and <span class='imp'><a href='https://github.com/microsoft/oppertune'>open-sourced</a></span> it. It is being <span class='imp'>used in Microsoft</span> and is <span class='imp'>patented in the US</span>.\n  </li>\n</ul>",
+        "<span class='title'>Project CEISER</span> <br> <span class='advisors'>\n  Advisors:\n    <a href='https://www.microsoft.com/en-us/research/people/jamohan'>Dr. Jayashree Mohan</a>,\n    <a href='https://www.anand-iyer.com'>Dr. Anand Iyer</a>\n</span> <br> <ul class='details'>\n  <li>\n    <span class='imp'>Reducing inference costs</span> by replacing a large ML model with an ensemble of smaller, heterogeneous models while maintaining accuracy and latency targets on a single GPU.\n  </li>\n</ul>"
       ]
     },
     {
@@ -100,7 +99,7 @@
       "endDate": "Aug 2021",
       "summary": "<span class='subtitle'>\n  Affiliated to: Networks and Security Lab (<a href='https://www.iiitd.ac.in'>IIITD</a>)\n</span> <br> <span class='advisors'>\n  Advisors:\n    <a href='https://www.iiitd.ac.in/sambuddho'>Prof. Sambuddho Chakravarty</a>,\n    <a href='https://www.iiitd.ac.in/mukulika'>Prof. Mukulika Maity</a>\n</span> <br> <span class='imp'>Grade: A+</span>",
       "highlights": [
-        "Developed a <span class='imp'>novel IP geolocation system</span> (12K SLoC in Python, 2K SLoC in C++) using Kalman Filters that outperforms existing techniques based on preliminary testing."
+        "Developed a <span class='imp'>novel IP geolocation system</span> with Kalman Filters, outperforming existing techniques in preliminary tests."
       ]
     },
     {
@@ -111,7 +110,7 @@
       "endDate": "Apr 2020",
       "summary": "<span class='subtitle'>\n  Affiliated to: Networks and Security Lab (<a href='https://www.iiitd.ac.in'>IIITD</a>)\n</span> <br> <span class='advisors'>\n  Advisor: <a href='https://www.iiitd.ac.in/sambuddho'>Prof. Sambuddho Chakravarty</a>\n</span> <br> <span class='imp'>Grade: A</span>",
       "highlights": [
-        "Helped develop an <span class='imp'>anti-censorship system</span> using instant messaging apps, including GUI and Python automation tools for webpage downloads, and assisted in experiments to ensure web browsing quality. Acknowledged in the publication at <a href='https://dl.acm.org/doi/abs/10.1145/3433210.3453080'>ASIA CCS 2021</a>."
+        "Developed an <span class='imp'>anti-censorship system</span> using instant messaging apps, ensure web browsing quality; acknowledged in <a href='https://dl.acm.org/doi/abs/10.1145/3433210.3453080'>ASIA CCS 2021</a> publication."
       ]
     }
   ],
@@ -124,8 +123,8 @@
       "endDate": "Jul 2021",
       "summary": "",
       "highlights": [
-        "Developed an <span class='imp'>automated test framework for Android devices</span>, including tools for test execution, report generation and logging.",
-        "<span class='imp'>Mentored an undergraduate intern</span> in creating pipelines and policies for automating environment setup and test execution."
+        "Developed an <span class='imp'>automated test framework for Android devices</span>.",
+        "<span class='imp'>Mentored an undergraduate intern</span> on creating automation pipelines for environment setup and test execution."
       ]
     },
     {
@@ -136,8 +135,7 @@
       "endDate": "Jul 2020",
       "summary": "",
       "highlights": [
-        "Developed a <span class='imp'>Linux kernel driver and an Android app</span> for identifying device configuration issues without needing specialized hardware.",
-        "Received a <span class='imp'>pre-placement offer</span>."
+        "Developed a <span class='imp'>Linux kernel driver and an Android app</span> to identify device configuration issues without specialized hardware; received a <span class='imp'>pre-placement offer</span>."
       ]
     }
   ],
@@ -147,7 +145,7 @@
       "url": "#",
       "date": "2018 - 2020",
       "awarder": "<a href='https://www.iiitd.ac.in'>IIITD</a>",
-      "summary": "Recipient for 3 years in a row for achieving an annual GPA exceeding 9.0/10.0."
+      "summary": "Recipient for <span class='imp'>3 years in a row</span> for achieving an annual GPA exceeding 9.0/10.0."
     },
     {
       "title": "Member of various student clubs",
@@ -164,7 +162,7 @@
       "summary": ""
     }
   ],
-  "projects": [
+  "undergraduate projects": [
     {
       "name": "Research Mentoring Platform",
       "summary": "<div class='subtitle'>\n  <a href='https://www.iiitd.ac.in'>IIITD</a>\n</div> <span class='advisors'>\n  Advisors:\n    <a href='https://www.iiitd.ac.in/jalote'>Prof. Pankaj Jalote</a> (<a href='https://www.iiitd.ac.in'>IIITD</a>),\n    <a href='https://www.cse.iitb.ac.in/~supratik'>Prof. Supratik Chakraborty</a> (<a href='https://india.acm.org'>ACM</a>, <a href='https://www.iitb.ac.in'>IIT-B</a>),\n    <a href='https://casi.sas.upenn.edu/visiting/debjanibhattacharyya'>Dr. Debjani Bhattacharya</a> (<a href='https://www.inae.in'>INAE</a>)\n</span>",
@@ -265,7 +263,7 @@
       "endDate": "2021",
       "summary": "",
       "highlights": [
-        "Conducted live sessions to teach <a href='https://flask.palletsprojects.com/en/stable'>Flask</a>, <a href='https://p5js.org'>p5.js</a>, <a href='https://processing.org'>processing.js</a>, graph theory and recursion."
+        "Taught live sessions <a href='https://flask.palletsprojects.com/en/stable'>Flask</a>, <a href='https://p5js.org'>p5.js</a>, <a href='https://processing.org'>processing.js</a>, graph theory and recursion."
       ]
     },
     {
@@ -364,6 +362,10 @@
     {
       "name": "<span class='imp'><a href='https://www.microsoft.com/en-us/research/people/nagarajn'>Dr. Nagarajan Natarajan</a></span>",
       "reference": "Principal Researcher, Microsoft Research India"
+    },
+    {
+      "name": "<span class='imp'><a href='https://www.microsoft.com/en-us/research/people/debopamb'>Dr. Debopam Bhattacherjee</a></span>",
+      "reference": "Senior Researcher, Microsoft Research India"
     },
     {
       "name": "<span class='imp'><a href='https://scholar.google.co.in/citations?user=xhbf6_oAAAAJ'>Dr. Ranjita Bhagwan</a></span>",
