@@ -20,24 +20,22 @@ social: true # includes social icons at the bottom of the page
 
 I am a **[Research Software Engineer 2](https://www.microsoft.com/en-us/research/people/karantandon)** at **[Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india)**. My primary **research interests** lie in **systems for ML** and **ML for systems**, with a broader focus on **systems**. I am also open to exploring new areas.
 
-<div class="phd alert alert-info mb-4 text-center" role="alert">
+<div class="phd alert alert-warning mb-4 text-center" role="alert">
     <p class="mb-0">
         <i class="fa-solid fa-bullhorn"></i>
         &nbsp;
-        <b>
-            I am actively seeking PhD opportunities.
-            Please feel free to <a href="mailto:karan2dec@gmail.com">reach out</a> for collaboration or potential openings.
-        </b>
+        I am actively seeking PhD opportunities.
+        Please feel free to <a href="mailto:karan2dec@gmail.com">reach out</a> for collaboration or potential openings.
     </p>
 </div>
 <style>
-    .phd b, .phd i {
-        color: #032830;
-        font-weight: 600;
+    .phd p {
+        color: black;
     }
 
     .phd a {
-        color: #032830;
+        font-weight: 500;
+        color: black;
         text-decoration: underline;
     }
 </style>
