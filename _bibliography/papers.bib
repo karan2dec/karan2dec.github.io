@@ -24,8 +24,22 @@
   booktitle = {NeurIPS 2024 Workshop on Machine Learning for Systems},
   year      = {2024},
   month     = dec,
-  url       = {#},
-  pdf       = {#},
+  url       = {https://neurips.cc/virtual/2024/103612},
+  pdf       = {https://mlforsystems.org/assets/papers/neurips2024/paper44.pdf},
   abstract  = {Systems optimization problems such as workload auto-scaling, kernel parameter tuning, and cluster management arising in large-scale enterprise infrastructure are becoming increasingly RL-driven. While effective, it is difficult to set up the RL framework for such real-world problems --- designing correct and useful reward functions or state spaces is highly challenging and needs a lot of domain expertise. Our proposed novel Reward Copilot solution can help design suitable and interpretable reward functions guided by client-provided specifications for any RL framework. Using experiments on standard benchmarks as well as systems-specific optimization problems, we show that our solution can return reward functions with a certain (informal) feasibility certificate in addition to pareto-optimality.},
   selected  = {true}
+}
+
+@misc{palak2024improvingtrainingtimegpu,
+  title         = {Improving training time and GPU utilization in geo-distributed language model training},
+  author        = {Palak and Rohan Gandhi and Karan Tandon and Debopam Bhattacherjee and Venkata N. Padmanabhan},
+  year          = {2024},
+  month         = nov,
+  eprint        = {2411.14458},
+  archiveprefix = {arXiv},
+  primaryclass  = {cs.DC},
+  url           = {https://arxiv.org/abs/2411.14458},
+  pdf           = {https://arxiv.org/pdf/2411.14458},
+  abstract      = {The widespread adoption of language models (LMs) across multiple industries has caused huge surge in demand for GPUs. Training LMs requires tens of thousands of GPUs and housing them in the same datacenter (DCs) is becoming challenging. We focus on training such models across multiple DCs connected via Wide-Area-Network (WAN). We build ATLAS that speeds up such training time using novel temporal bandwidth sharing and many other design choices. While ATLAS improves the training time, it does not eliminate the bubbles (idle GPU cycles). We built BUBBLETEA that runs prefill-as-a-service (part of LM inference) during the bubbles that improves the GPU utilization substantially without any impact of training. Together, ATLAS and BUBBLETEA improve training time by up to 17X and achieve GPU utilization of up to 94%.},
+  selected      = {true}
 }

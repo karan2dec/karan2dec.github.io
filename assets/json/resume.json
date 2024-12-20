@@ -31,7 +31,7 @@
       "studyType": "Bachelor of Technology (B.Tech.)",
       "startDate": "Aug 2017",
       "endDate": "Jul 2021",
-      "score": "<div class='imp' style='font-style: normal;'>\n  GPA: 9.67/10.00 (Class rank: 2 of 323)\n</div> <br> Selected coursework:",
+      "score": "<div class='imp' style='font-style: normal;'>\n  GPA: 9.67/10.00 &nbsp; (Class rank: 2 of 323)\n</div> <br> Selected coursework:",
       "courses": [
         "Computer Graphics",
         "Computer Organization",
@@ -71,7 +71,7 @@
     {
       "name": "OPPerTune: Post-Deployment Configuration Tuning of Services Made Easy",
       "publisher": "<a href='https://www.usenix.org/conference/nsdi24'>USENIX NSDI 2024</a>",
-      "releaseDate": "Jul 2023",
+      "releaseDate": "Apr 2024",
       "url": "https://www.usenix.org/conference/nsdi24/presentation/somashekar",
       "summary": "We introduce OPPerTune, a framework enabling apps in deployment to <span class='imp'>continuously optimize performance by tuning configuration parameters</span>. Visit <a href='https://aka.ms/oppertune'>aka.ms/oppertune</a> to know more about the project."
     }
@@ -85,10 +85,10 @@
       "endDate": "Now",
       "summary": "",
       "highlights": [
-        "<span class='title'>Project Reward Copilot</span> <br> <span class='advisors'>\n  Advisors:\n    <a href='https://www.microsoft.com/en-us/research/people/nagarajn'>Dr. Nagarajan Natarajan</a>,\n    <a href='https://www.microsoft.com/en-us/research/people/mayukhdas'>Dr. Mayukh Das</a>\n</span> <br> <ul class='details'>\n  <li>\n    Automating <span class='imp'>interpretable reward functions design</span> for RL-driven systems optimization.\n  </li>\n</ul>",
+        "<span class='title'>Project Reward Copilot</span> &nbsp; <a href='https://mlforsystems.org/assets/papers/neurips2024/paper44.pdf'><i class=\"fa-solid fa-file-pdf\"></i></a> <br> <span class='advisors'>\n  Advisors:\n    <a href='https://www.microsoft.com/en-us/research/people/nagarajn'>Dr. Nagarajan Natarajan</a>,\n    <a href='https://www.microsoft.com/en-us/research/people/mayukhdas'>Dr. Mayukh Das</a>\n</span> <br> <ul class='details'>\n  <li>\n    Automating <span class='imp'>interpretable reward functions design</span> for RL-driven systems optimization.\n  </li>\n</ul>",
         "<span class='title'>Project Network Brain</span> <br> <span class='advisors'>\n  Advisors:\n  <a href='https://www.microsoft.com/en-us/research/people/padmanab'>Dr. Venkat Padmanabhan</a>,\n  <a href='https://www.microsoft.com/en-us/research/people/debopamb'>Dr. Debopam Bhattacherjee</a>,\n  <a href='https://www.microsoft.com/en-us/research/people/rohangandhi'>Dr. Rohan Gandhi</a>\n</span> <br> <ul class='details'>\n  <li>\n    Optimizing <span class='imp'>geo-distributed training of large language models</span> (LLMs).\n  </li>\n  <li>\n    Developing <span class='imp'>output sequence length predictors for LLMs</span> to aid in downstream tasks.\n  </li>\n</ul>",
-        "<span class='title'><a href='https://aka.ms/oppertune'>Project OPPerTune</a></span> &emsp; <a href='https://github.com/microsoft/OPPerTune'><i class=\"fa-brands fa-github\"></i></a> &nbsp; <a href='https://www.usenix.org/system/files/nsdi24-somashekar.pdf'><i class=\"fa-solid fa-file-pdf\"></i></a> <br> <span class='advisors'>\n  Advisors:\n    <a href='https://www.microsoft.com/en-us/research/people/nagarajn'>Dr. Nagarajan Natarajan</a>,\n    <a href='https://scholar.google.co.in/citations?user=xhbf6_oAAAAJ'>Dr. Ranjita Bhagwan</a>\n</span> <br> <ul class='details'>\n  <li>\n    Created OPPerTune, a framework enabling apps in deployment to <span class='imp'>continuously optimize performance by tuning configuration parameters</span>.\n  </li>\n  <li>\n    Built a <a href='https://github.com/microsoft/oppertune'>Python library</a> integrating our implementations of <span title=\"Reinforcement Learning\">RL</span> tuning algorithms, established benchmarks for evaluation, and led research toward product deployment.\n  </li>\n  <li>\n    Led OPPerTune's integration into <span class='imp'>Azure Resource Central</span>, Microsoft's prediction serving platform, and <span class='imp'><a href='https://github.com/microsoft/oppertune'>open-sourced</a></span> it. It is being <span class='imp'>used in Microsoft</span> and is <span class='imp'>patented in the US</span>.\n  </li>\n</ul>",
-        "<span class='title'>Project CEISER</span> <br> <span class='advisors'>\n  Advisors:\n    <a href='https://www.microsoft.com/en-us/research/people/jamohan'>Dr. Jayashree Mohan</a>,\n    <a href='https://www.anand-iyer.com'>Dr. Anand Iyer</a>\n</span> <br> <ul class='details'>\n  <li>\n    <span class='imp'>Reducing inference costs</span> by replacing a large ML model with an ensemble of smaller, heterogeneous models while maintaining accuracy and latency targets on a single GPU.\n  </li>\n</ul>"
+        "<span class='title'><a href='https://aka.ms/oppertune'>Project OPPerTune</a></span> &emsp; <a href='https://github.com/microsoft/OPPerTune'><i class=\"fa-brands fa-github\"></i></a> &nbsp; <a href='https://www.usenix.org/system/files/nsdi24-somashekar.pdf'><i class=\"fa-solid fa-file-pdf\"></i></a> <br> <span class='advisors'>\n  Advisors:\n    <a href='https://www.microsoft.com/en-us/research/people/nagarajn'>Dr. Nagarajan Natarajan</a>,\n    <a href='https://scholar.google.co.in/citations?user=xhbf6_oAAAAJ'>Dr. Ranjita Bhagwan</a>\n</span> <br> <ul class='details'>\n  <li>\n    Created OPPerTune, a framework enabling apps in deployment to <span class='imp'>continuously optimize performance by tuning configuration parameters</span>. OPPerTune is <span class='imp'>patented in the US</span>.\n  </li>\n  <li>\n    Built a <a href='https://github.com/microsoft/oppertune'>Python library</a> integrating our implementations of <span title=\"Reinforcement Learning\">RL</span> tuning algorithms, established benchmarks for evaluation, and led research toward product deployment.\n  </li>\n  <li>\n    Led OPPerTune's integration into <span class='imp'>Azure Resource Central</span> (Microsoft's prediction serving platform), its <span class='imp'>deployment in production</span> at Microsoft, and <span class='imp'><a href='https://github.com/microsoft/oppertune'>open-sourced</a></span> it.\n  </li>\n</ul>",
+        "<span class='title'>Project CEISER</span> <br> <span class='advisors'>\n  Advisors:\n    <a href='https://www.microsoft.com/en-us/research/people/jamohan'>Dr. Jayashree Mohan</a>,\n    <a href='https://www.anand-iyer.com'>Dr. Anand Iyer</a>\n</span> <br> <ul class='details'>\n  <li>\n    Cost-effective <span class='imp'>ensemble inference on a single GPU</span> via graph merging and kernel fusion.\n  </li>\n</ul>"
       ]
     },
     {
@@ -153,6 +153,13 @@
       "date": "2017 - 2021",
       "awarder": "<a href='https://www.iiitd.ac.in'>IIITD</a>",
       "summary": "Achieved a <span class='imp'>top 3 ranking</span> in the recruitment contests of the competitive programming (<a href='https://blog.iiitd.ac.in/foobar-a-story-to-tell'>FooBar</a>), software development (<a href='https://iiit-delhi.github.io/byld-website'>Byld</a>) and cybersecurity (<a href='https://d4rkc0de.iiitd.edu.in'>d4rkc0de</a>) clubs."
+    },
+    {
+      "title": "Ranked in the top 0.39% among 1.2M candidates in Joint Entrance Examination",
+      "url": "#",
+      "date": 2017,
+      "awarder": "",
+      "summary": "India's national-level engineering entrance exam."
     },
     {
       "title": "School Head Boy",
@@ -291,14 +298,14 @@
       "name": "Libraries",
       "level": "",
       "keywords": [
-        "PyTorch, FastAPI, Fiber, Django, Flask, NumPy, Pandas, Vue.js, PyTest, OpenGL"
+        "PyTorch, FastAPI, Pydantic, Fiber, Hydra, Django, Flask, NumPy, Pandas, Vue.js, PyTest, OpenGL"
       ]
     },
     {
       "name": "Tools",
       "level": "",
       "keywords": [
-        "wrk2, Adobe Photoshop, Azure Pipelines, Azure Functions, MongoDB"
+        "Git, wrk2, Nsight Systems, Nsight Compute, Azure Functions, Adobe Photoshop, Azure Pipelines, MongoDB"
       ]
     }
   ],
@@ -348,10 +355,6 @@
     {
       "language": "Hindi",
       "fluency": "Native"
-    },
-    {
-      "language": "Punjabi",
-      "fluency": "Fluent"
     }
   ],
   "references": [
@@ -368,12 +371,12 @@
       "reference": "Senior Researcher, Microsoft Research India"
     },
     {
-      "name": "<span class='imp'><a href='https://scholar.google.co.in/citations?user=xhbf6_oAAAAJ'>Dr. Ranjita Bhagwan</a></span>",
-      "reference": "Principal Engineer, Google India<br>(formerly Senior Principal Researcher, Microsoft Research India)"
-    },
-    {
       "name": "<span class='imp'><a href='https://iiitd.ac.in/sambuddho'>Prof. Sambuddho Chakravarty</a></span>",
       "reference": "Associate Professor, <a href='https://iiitd.ac.in'>IIITD</a>"
+    },
+    {
+      "name": "<span class='imp'><a href='https://scholar.google.co.in/citations?user=xhbf6_oAAAAJ'>Dr. Ranjita Bhagwan</a></span>",
+      "reference": "Principal Engineer, Google India"
     }
   ]
 }
