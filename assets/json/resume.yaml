@@ -24,7 +24,7 @@ education:
     endDate: Jul 2021
     score: >-
       <div class='imp' style='font-style: normal;'>
-        GPA: 9.67/10.00 (Class rank: 2 of 323)
+        GPA: 9.67/10.00 &nbsp; (Class rank: 2 of 323)
       </div>
       <br>
       Selected coursework:
@@ -61,7 +61,7 @@ publications:
     summary: We introduce Reward Copilot, a framework that facilitates the <span class='imp'>design of interpretable reward functions based on client specifications</span> for any RL framework.
   - name: "OPPerTune: Post-Deployment Configuration Tuning of Services Made Easy"
     publisher: <a href='https://www.usenix.org/conference/nsdi24'>USENIX NSDI 2024</a>
-    releaseDate: Jul 2023
+    releaseDate: Apr 2024
     url: https://www.usenix.org/conference/nsdi24/presentation/somashekar
     summary: We introduce OPPerTune, a framework enabling apps in deployment to <span class='imp'>continuously optimize performance by tuning configuration parameters</span>. Visit <a href='https://aka.ms/oppertune'>aka.ms/oppertune</a> to know more about the project.
 research experience:
@@ -74,6 +74,8 @@ research experience:
     highlights:
       - >-
         <span class='title'>Project Reward Copilot</span>
+        &nbsp;
+        <a href='https://mlforsystems.org/assets/papers/neurips2024/paper44.pdf'><i class="fa-solid fa-file-pdf"></i></a>
         <br>
         <span class='advisors'>
           Advisors:
@@ -119,13 +121,13 @@ research experience:
         <br>
         <ul class='details'>
           <li>
-            Created OPPerTune, a framework enabling apps in deployment to <span class='imp'>continuously optimize performance by tuning configuration parameters</span>.
+            Created OPPerTune, a framework enabling apps in deployment to <span class='imp'>continuously optimize performance by tuning configuration parameters</span>. OPPerTune is <span class='imp'>patented in the US</span>.
           </li>
           <li>
             Built a <a href='https://github.com/microsoft/oppertune'>Python library</a> integrating our implementations of <span title="Reinforcement Learning">RL</span> tuning algorithms, established benchmarks for evaluation, and led research toward product deployment.
           </li>
           <li>
-            Led OPPerTune's integration into <span class='imp'>Azure Resource Central</span>, Microsoft's prediction serving platform, and <span class='imp'><a href='https://github.com/microsoft/oppertune'>open-sourced</a></span> it. It is being <span class='imp'>used in Microsoft</span> and is <span class='imp'>patented in the US</span>.
+            Led OPPerTune's integration into <span class='imp'>Azure Resource Central</span> (Microsoft's prediction serving platform), its <span class='imp'>deployment in production</span> at Microsoft, and <span class='imp'><a href='https://github.com/microsoft/oppertune'>open-sourced</a></span> it.
           </li>
         </ul>
       - >-
@@ -139,7 +141,7 @@ research experience:
         <br>
         <ul class='details'>
           <li>
-            <span class='imp'>Reducing inference costs</span> by replacing a large ML model with an ensemble of smaller, heterogeneous models while maintaining accuracy and latency targets on a single GPU.
+            Cost-effective <span class='imp'>ensemble inference on a single GPU</span> via graph merging and kernel fusion.
           </li>
         </ul>
   - name: "Bachelor's Thesis: Client-independent IP Geolocation"
@@ -207,6 +209,11 @@ achievements:
     date: 2017 - 2021
     awarder: <a href='https://www.iiitd.ac.in'>IIITD</a>
     summary: Achieved a <span class='imp'>top 3 ranking</span> in the recruitment contests of the competitive programming (<a href='https://blog.iiitd.ac.in/foobar-a-story-to-tell'>FooBar</a>), software development (<a href='https://iiit-delhi.github.io/byld-website'>Byld</a>) and cybersecurity (<a href='https://d4rkc0de.iiitd.edu.in'>d4rkc0de</a>) clubs.
+  - title: Ranked in the top 0.39% among 1.2M candidates in Joint Entrance Examination
+    url: "#"
+    date: 2017
+    awarder: ''
+    summary: India's national-level engineering entrance exam.
   - title: School Head Boy
     url: "#"
     date: 2011, 2016
@@ -367,11 +374,11 @@ skills:
   - name: Libraries
     level: ""
     keywords:
-      - PyTorch, FastAPI, Fiber, Django, Flask, NumPy, Pandas, Vue.js, PyTest, OpenGL
+      - PyTorch, FastAPI, Pydantic, Fiber, Hydra, Django, Flask, NumPy, Pandas, Vue.js, PyTest, OpenGL
   - name: Tools
     level: ""
     keywords:
-      - wrk2, Adobe Photoshop, Azure Pipelines, Azure Functions, MongoDB
+      - Git, wrk2, Nsight Systems, Nsight Compute, Azure Functions, Adobe Photoshop, Azure Pipelines, MongoDB
 interests:
   - name: Badminton
     keywords:
@@ -396,8 +403,6 @@ languages:
     fluency: Fluent
   - language: Hindi
     fluency: Native
-  - language: Punjabi
-    fluency: Fluent
 references:
   - name: <span class='imp'><a href='https://www.microsoft.com/en-us/research/people/padmanab'>Dr. Venkat Padmanabhan</a></span>
     reference: Managing Director, Microsoft Research India
@@ -405,7 +410,7 @@ references:
     reference: Principal Researcher, Microsoft Research India
   - name: <span class='imp'><a href='https://www.microsoft.com/en-us/research/people/debopamb'>Dr. Debopam Bhattacherjee</a></span>
     reference: Senior Researcher, Microsoft Research India
-  - name: <span class='imp'><a href='https://scholar.google.co.in/citations?user=xhbf6_oAAAAJ'>Dr. Ranjita Bhagwan</a></span>
-    reference: Principal Engineer, Google India<br>(formerly Senior Principal Researcher, Microsoft Research India)
   - name: <span class='imp'><a href='https://iiitd.ac.in/sambuddho'>Prof. Sambuddho Chakravarty</a></span>
     reference: Associate Professor, <a href='https://iiitd.ac.in'>IIITD</a>
+  - name: <span class='imp'><a href='https://scholar.google.co.in/citations?user=xhbf6_oAAAAJ'>Dr. Ranjita Bhagwan</a></span>
+    reference: Principal Engineer, Google India
